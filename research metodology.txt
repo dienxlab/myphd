@@ -1,3 +1,12 @@
+
+-- contribution to knowledge
+revise the theory, fact, methods, and application
+-- contribution to society
+
+Research is driven by issues in society
+
+systematic, planned, repeated, measureable
+
 1.Research Field / passion
 
 2.Research Topic
@@ -11,6 +20,7 @@ research problem challenge on "nama topik"
 research problem must have supported literatures
 survey review on "nama topik" -> technical paper (updated respected jurnal then conference)
 (masalah, landasan) pair
+find the problem in publications
 
 4.State of the art methods
 metode yang digunakan untuk menyelesaikan masalah penelitian / algoritma / tahapan
@@ -28,3 +38,40 @@ akurasi, efisiensi
 https://www.youtube.com/watch?v=5R27oCQG6BY : Research Methodology
 
 RP -> RQ -> RO -> paper
+
+what is research? it was doing based on research problem not life problem
+classification of research
+
+type of contribution:
+solving new problem with new method (contribution in problem and method )
+solving old problem with new method (contribution in method / improvement type research)
+solving new problem with old method (contribution in problem )
+applying/proofing theoritical model with real implementation in hardware
+Development of low-cost method/technique/hardware/system with equal performance of existing method/technique/hardware/system 
+
+mendeley
+
+contribution to body of knowledge and to solve problem in society
+
+
+1. General issue in society (motivation and background)
+2. General Problem (topic related to background)
+3. literature synthesis
+4. research gap
+    novel, device, approachs
+5. research result
+6. discussion / analysis--> answer no.4 and compared to no. 3 previous research (showing improvement)
+7. implication, future work --> answer no 2. and 1.
+8. conclusion
+
+
+1. Choose an interesting area for research
+2. Identify an interesting research topic (a problem for which there is no good solution)
+3. Have some good idea how to improve the state of the art
+4. Show that your idea works: e.g.
+    Apply it to some examples (realistic case studies, if possible)
+    Prove some properties of your approach (logical properties or analytical performance predictions) and show that it is better than the current state of the art
+    Do simulation studies (e.g. for performance) and show that your approach is better than the current state of the art
+    Build a software tool that supports your approach
+5. Do a systematic comparison with other approaches to the same problem and discuss advantages AND disadvantages of your approach
+6. Write up your results in some papers which make these results accessible to the interested expert.
